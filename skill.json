@@ -1,0 +1,139 @@
+{
+    "manifest": {
+      "publishingInformation": {
+        "locales": {
+          "en-AU": {
+            "summary": "Discover feeds about machine learning and store these feeds on Arweave's network blockchain.",
+            "examplePhrases": [
+              "Alexa open machine learning vocabulary",
+              "Alexa ask machine learning vocabulary for a term",
+              "Alexa tell machine learning vocabulary to tell me trivia"
+            ],
+            "keywords": [
+              "feed",
+              "bot",
+              "blockchain",
+              "machine",
+              "learning",
+              "vocabulary",
+              "trivia",
+              "term",
+              "glossary",
+              "vocab",
+              "definition",
+              "lingo"
+            ],
+            "name": "Machine Learning Vocabulary",
+            "description": "Ask for machine learning feeds and vocabulary, and learn and discover terms and definitions about machine learning. All the feeds you listen to are stored on Arweave's network blockchain. Machine learning feeds and vocabulary provides fun and education the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch machine learning vocabulary\" or \"Alexa, open machine learning vocabulary\" to get a term or feed.\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+          },
+          "en-CA": {
+            "summary": "Discover feeds about machine learning and store these feeds on Arweave's network blockchain.",
+            "examplePhrases": [
+              "Alexa open machine learning vocabulary",
+              "Alexa ask machine learning vocabulary for a term",
+              "Alexa tell machine learning vocabulary to tell me trivia"
+            ],
+            "keywords": [
+              "feed",
+              "bot",
+              "blockchain",
+              "machine",
+              "learning",
+              "vocabulary",
+              "trivia",
+              "term",
+              "glossary",
+              "vocab",
+              "definition",
+              "lingo"
+            ],
+            "name": "Machine Learning Vocabulary",
+            "description": "Ask for machine learning feeds and vocabulary, and learn and discover terms and definitions about machine learning. All the feeds you listen to are stored on Arweave's network blockchain. Machine learning feeds and vocabulary provides fun and education the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch machine learning vocabulary\" or \"Alexa, open machine learning vocabulary\" to get a term or feed.\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+          },
+          "en-GB": {
+            "summary": "Discover feeds about machine learning and store these feeds on Arweave's network blockchain.",
+            "examplePhrases": [
+              "Alexa open machine learning vocabulary",
+              "Alexa ask machine learning vocabulary for a term",
+              "Alexa tell machine learning vocabulary to tell me trivia"
+            ],
+            "keywords": [
+              "feed",
+              "bot",
+              "blockchain",
+              "machine",
+              "learning",
+              "vocabulary",
+              "trivia",
+              "term",
+              "glossary",
+              "vocab",
+              "definition",
+              "lingo"
+            ],
+            "name": "Machine Learning Vocabulary",
+            "description": "Ask for machine learning feeds and vocabulary, and learn and discover terms and definitions about machine learning. All the feeds you listen to are stored on Arweave's network blockchain. Machine learning feeds and vocabulary provides fun and education the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch machine learning vocabulary\" or \"Alexa, open machine learning vocabulary\" to get a term or feed.\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+          },
+          "en-IN": {
+            "summary": "Discover feeds about machine learning and store these feeds on Arweave's network blockchain.",
+            "examplePhrases": [
+              "Alexa open machine learning vocabulary",
+              "Alexa ask machine learning vocabulary for a term",
+              "Alexa tell machine learning vocabulary to tell me trivia"
+            ],
+            "keywords": [
+              "feed",
+              "bot",
+              "blockchain",
+              "machine",
+              "learning",
+              "vocabulary",
+              "trivia",
+              "term",
+              "glossary",
+              "vocab",
+              "definition",
+              "lingo"
+            ],
+            "name": "Machine Learning Vocabulary",
+            "description": "Ask for machine learning feeds and vocabulary, and learn and discover terms and definitions about machine learning. All the feeds you listen to are stored on Arweave's network blockchain. Machine learning feeds and vocabulary provides fun and education the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch machine learning vocabulary\" or \"Alexa, open machine learning vocabulary\" to get a term or feed.\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+          },
+          "en-US": {
+            "summary": "Discover feeds about machine learning and store these feeds on Arweave's network blockchain.",
+            "examplePhrases": [
+              "Alexa open machine learning vocabulary",
+              "Alexa ask machine learning vocabulary for a term",
+              "Alexa tell machine learning vocabulary to tell me trivia"
+            ],
+            "keywords": [
+              "feed",
+              "bot",
+              "blockchain",
+              "machine",
+              "learning",
+              "vocabulary",
+              "trivia",
+              "term",
+              "glossary",
+              "vocab",
+              "definition",
+              "lingo"
+            ],
+            "name": "Machine Learning Vocabulary",
+            "description": "Ask for machine learning feeds and vocabulary, and learn and discover terms and definitions about machine learning. All the feeds you listen to are stored on Arweave's network blockchain. Machine learning feeds and vocabulary provides fun and education the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch machine learning vocabulary\" or \"Alexa, open machine learning vocabulary\" to get a term or feed.\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+          }
+        },
+        "category": "KNOWLEDGE_AND_TRIVIA"
+      },
+      "apis": {
+        "custom": {
+          "endpoint": {
+            "sourceDir": "lambda/custom",
+            "uri": "ask-custom-machine-learning-lingo-default"
+          }
+        }
+      },
+      "manifestVersion": "1.0"
+    }
+  }
+  
