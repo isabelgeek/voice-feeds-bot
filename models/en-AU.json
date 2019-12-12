@@ -1,0 +1,55 @@
+{
+    "interactionModel": {
+      "languageModel": {
+        "invocationName": "machine learning vocabulary",
+        "intents": [
+          {
+            "name": "AMAZON.CancelIntent",
+            "samples": []
+          },
+          {
+            "name": "AMAZON.HelpIntent",
+            "samples": []
+          },
+          {
+            "name": "AMAZON.StopIntent",
+            "samples": []
+          },
+          {
+            "name": "AMAZON.FallbackIntent",
+            "samples": []
+          },
+          {
+            "name": "GetNewFactIntent",
+            "samples": [
+              "a feed",
+              "a term",
+              "a definition",
+              "tell me a feed",
+              "tell me a term",
+              "tell me a definition",
+              "tell me a machine learning feed",
+              "tell me a machine learning term",
+              "tell me a machine learning definition",
+              "give me a feed",
+              "give me a term",
+              "give me a definition",
+              "give me a machine learning feed",
+              "give me a machine learning term",
+              "give me a machine learning definition",
+              "tell me trivia",
+              "tell me a machine learning trivia",
+              "give me trivia",
+              "give me a machine learning trivia",
+              "give me some information",
+              "give me some machine learning information",
+              "tell me something",
+              "give me something"
+            ],
+            "slots": []
+          }
+        ]
+      }
+    }
+  }
+  
