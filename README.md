@@ -18,6 +18,10 @@ More topics will be added and published in additional skills.
 This is the wallet address used to store the feeds in the project:
 YMXJ-1WWiTnR2G6sC-wOZQPfwjyB-Lk1-hJxqAKlpHs
 
+I have also used the tags:
+`title`= _Speech to Text to Blockchain_
+`app-name` = _Machine Learning Feeds_
+
 
 
 ## Installation
