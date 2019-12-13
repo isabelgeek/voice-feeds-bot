@@ -4,9 +4,21 @@
 
 This is an Alexa skill that provided a list of interesting feeds about a topic, the Alexa assistant will select a feed at random, store the Arwewave's blockchain network and tell it to the user when the skill is invoked.
 
+In my opinion to evaluate data streams is important to have in mind the quality and utility of the data and the audience it reaches. In this case the bot / assistant notarizes eaach data stream that it tells to the users.
+
+This is the link of the Alexa skill live in Amazon marketplace for skills:
+https://amzn.to/36yQ7jD
+
+Right now includes different languages locales such as en-AU, en-CA, en-GB, en-IN, and en-US and it is published in the following countries: United States, United Kingdom, Canada, Australia and India.
+I will add in the near future more locales such Spanish for Mexico and Spain.
+
+More topics will be added and published in additional skills.
+
 ## Wallet address archiving data stream - feeds
 This is the wallet address used to store the feeds in the project:
 YMXJ-1WWiTnR2G6sC-wOZQPfwjyB-Lk1-hJxqAKlpHs
+
+
 
 ## Installation
 
@@ -75,6 +87,11 @@ You will neee to provide a set of feeds for your topic replacing the feeds in `i
 Please follow the instructions and guidelines from Amazon to certify and get published your skill.
 
 ## License
-Apache License Version 2.0
+The source code is licensed under Apache License Version 2.0
 [LICENSE](https://github.com/isabelgeek/voice-feeds-bot/blob/master/LICENSE "LICENSE")
+
+The machine learning feeds and vocabulary used in this bot is licensed by Google under the [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/ "Creative Commons Atribution 4.0 License") by Google
+
+Arweave, Google and Alexa are trademarks of their respective owners.
+
 
