@@ -9,7 +9,7 @@
   "author": "Isabel Lopez Cepero",
   "license": "Apache License Version 2.0",
   "dependencies": {
-    "arweave": "^1.6.0",
+    "arweave": "^1.13.7",
     "ask-sdk-core": "^2.0.0",
     "ask-sdk-model": "^1.0.0",
     "i18next": "^11.8.0",
